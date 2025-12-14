@@ -3,7 +3,7 @@
 InstaClone is a simple Instagram-style social media application built using the **MERN stack**.  
 This project was developed as part of a placement assignment to demonstrate backend logic, database relationships, authentication, and frontend API integration.
 
----
+
 
 ## Features
 
@@ -31,7 +31,7 @@ This project was developed as part of a placement assignment to demonstrate back
 - Profile page with follow/unfollow
 - Dynamic UI updates without page refresh
 
----
+
 
 ## Tech Stack
 
@@ -40,7 +40,7 @@ This project was developed as part of a placement assignment to demonstrate back
 **Database:** MongoDB, Mongoose  
 **Auth:** JWT, bcrypt
 
----
+
 
 ## Folder Structure
 
