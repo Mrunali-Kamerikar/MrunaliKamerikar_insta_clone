@@ -126,4 +126,3 @@ POST /api/comments – Add comment
 
 # Author
 Mrunali Kamerikar
-S
