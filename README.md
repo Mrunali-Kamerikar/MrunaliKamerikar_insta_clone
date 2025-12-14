@@ -44,6 +44,7 @@ This project was developed as part of a placement assignment to demonstrate back
 
 ## Folder Structure
 
+```bash
 insta_clone/
 ├── server/
 │ ├── models/
@@ -60,7 +61,7 @@ insta_clone/
 │ └── package.json
 │
 └── README.md
-
+```
 
 
 ## Setup Instructions
